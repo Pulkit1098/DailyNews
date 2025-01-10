@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Guy Faulconbridge",
+        "title": "Putin issues warning to US with new nuclear doctrine - Reuters",
+        "description": "The doctrine outlines the threats that would make Russia contemplate using nuclear weapons.",
+        "url": "https://www.reuters.com/world/europe/putin-issues-warning-us-with-new-nuclear-doctrine-2024-11-19/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/FU6UC5GM3BKAFIECSV7ZVWRNTE.jpg?auth=b74883dad52f5b73f4da79f0087f2986dc42dab99a4d4cbf17c3b9d6b4baccb6&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-11-19T08:46:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Wesley Yin-Poole",
+        "title": "Report: Sony in Talks to Buy Kadokawa, Owner of Elden Ring and Dark Souls Developer FromSoftware - IGN",
+        "description": "Sony is reportedly in talks to buy Kadokawa, whose subsidiary FromSoftware is behind smash hit Elden Ring, the Dark Souls and Armored Core games, and PlayStation exclusive Bloodborne.",
+        "url": "https://www.ign.com/articles/report-sony-in-talks-to-buy-kadokawa-owner-of-elden-ring-and-dark-souls-developer-fromsoftware",
+        "urlToImage": "https://assets-prd.ignimgs.com/2024/06/03/eldenring-shadow-fp-blogroll-1717445459923.jpg?width=1280",
+        "publishedAt": "2024-11-19T06:54:03Z",
+        "content": "Sony is reportedly in talks to buy Kadokawa, whose subsidiary FromSoftware is behind smash hit Elden Ring, the Dark Souls and Armored Core games, and PlayStation exclusive Bloodborne.\r\nReuters report… [+1692 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendo Life"
+        },
+        "author": "Liam Doolan",
+        "title": "The Game Awards 2024 Nominees Have Been Revealed - Zelda, Mario And Metroid Nominated - Nintendo Life",
+        "description": "And DLC is up for 'GOTY'",
+        "url": "https://www.nintendolife.com/news/2024/11/the-game-awards-2024-nominees-have-been-revealed-zelda-mario-and-metroid-nominated",
+        "urlToImage": "https://images.nintendolife.com/d7f7979dff679/1280x720.jpg",
+        "publishedAt": "2024-11-19T05:48:45Z",
+        "content": "I thought Helldivers would get nominated for either GOTY or Game Direction over Black Myth Wukong. Id argue Helldivers has better direction than all of the nominees.\r\nVery interested to see where Bes… [+1128 chars]"
+      }
+    ]
+  }
